@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CNA</string>
+    <string name="channel_id">1</string>
+    <string name="channel_name">Email Send</string>
+</resources>
